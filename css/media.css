@@ -336,5 +336,8 @@
     hr.footer-hr {
         margin: 30px 0px 0px;
     }
+    .progress-bar-col{
+        display: none;
+    }
 
 }
